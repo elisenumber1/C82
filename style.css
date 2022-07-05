@@ -1,0 +1,12 @@
+h1{
+    color:red;
+    font-size:30px;
+}
+body{
+    background:blueviolet;
+}
+#mycanvas{
+    border-width:10px;
+    background-color:white;
+    border-style:ridge;
+}
